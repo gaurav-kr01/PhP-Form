@@ -43,16 +43,9 @@ CREATE TABLE `detail` (
 --
 
 INSERT INTO `detail` (`sno`, `name`, `age`, `gender`, `email`, `phone`, `other`, `dt`) VALUES
-(1, 'Gaurav', 22, 'male', 'gaurav136270@gmail.com', '0727513627', 'I am Good', '2024-05-23 04:45:05'),
-(2, 'AJAY', 22, 'male', 'gaurav136270@gmail.com', '0727513627', 'klklkbxbxf', '2024-05-23 05:05:25'),
-(3, 'AJAY', 22, 'male', 'gaurav136270@gmail.com', '0727513627', 'klklkbxbxf', '2024-05-23 05:05:35'),
-(4, 'AJAY', 22, 'male', 'gaurav136270@gmail.com', '0727513627', 'klklkbxbxf', '2024-05-23 05:05:39'),
-(5, 'Gaurav', 34, 'male', 'gaurav136270@gmail.com', '0727513627', 'ok', '2024-05-23 05:05:52'),
-(6, 'Gaurav', 34, 'male', 'gaurav136270@gmail.com', '0727513627', 'ok', '2024-05-23 05:07:50'),
-(7, 'Gaurav', 34, 'male', 'gaurav136270@gmail.com', '0727513627', 'ok', '2024-05-23 05:12:18'),
-(8, 'Gaurav', 34, 'male', 'gaurav136270@gmail.com', '0727513627', 'ok', '2024-05-23 05:13:01'),
-(9, 'Gaurav', 34, 'male', 'gaurav136270@gmail.com', '0727513627', 'kjdfk', '2024-05-23 05:13:48'),
-(10, 'Gaurav', 34, 'male', 'gaurav136270@gmail.com', '0727513627', 'kjdfk', '2024-05-23 05:13:55');
+(1, 'Gaurav', 22, 'male', 'gaurav136270@gmail.com', '0727500627', 'I am Good', '2024-05-23 04:45:05'),
+(2, 'test', 22, 'male', 'test6270@gmail.com', '0775413627', 'klklkbxbxf', '2024-05-23 05:05:25'),
+(3, 'test1', 22, 'male', 'test270@gmail.com', '0000003627', 'klklkbxbxf', '2024-05-23 05:05:35'),;
 
 --
 -- Indexes for dumped tables
